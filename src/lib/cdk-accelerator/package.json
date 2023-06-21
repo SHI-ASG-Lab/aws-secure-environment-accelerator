@@ -32,7 +32,7 @@
     "@aws-cdk/aws-sns": "1.144.0",
     "@aws-cdk/aws-stepfunctions": "1.144.0",
     "@aws-cdk/aws-stepfunctions-tasks": "1.144.0",
-    "@aws-cdk/cloudformation-include": "1.144.0",
+    "@aws-cdk/cloudformation-include": "1.202.0",
     "@aws-cdk/core": "1.144.0",
     "glob": "7.1.6",
     "tempy": "1.0.1"

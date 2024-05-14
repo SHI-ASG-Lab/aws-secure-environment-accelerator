@@ -35,7 +35,7 @@
     "@aws-cdk/cloudformation-include": "1.144.0",
     "@aws-cdk/core": "1.144.0",
     "glob": "7.1.6",
-    "tempy": "1.0.1"
+    "tempy": "3.0.0"
   },
   "devDependencies": {
     "@aws-cdk/assert": "1.144.0",

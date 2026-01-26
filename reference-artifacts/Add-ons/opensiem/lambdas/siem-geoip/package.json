@@ -19,7 +19,7 @@
         "aws-lambda": "1.0.6",
         "aws-sdk": "2.944.0",
         "exponential-backoff": "3.1.0",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "pascal-case": "3.1.2",
         "siem-common": "file:../common",
         "tar-stream": "^2.2.0"
